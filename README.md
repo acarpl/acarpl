@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @acarpl
 - 👀 I’m interested in UI/UX, Full-stack, AI and Machine learning
-- 🌱 I’m currently learning Python, PHP, and Server Side
+- 🌱 I’m currently learning Python, PHP, and Dart
 - 💞️ I’m looking to collaborate on client side development
-- 📫 How to reach me DM
+- 📫 How to reach me DM @rasya.falqi on instagram
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Eat vegetables
 
