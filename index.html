@@ -17,18 +17,21 @@
       rel="stylesheet"
     />
     <style>
-      * {
+      body {
         font-family: "Poppins", sans-serif;
-        scroll-behavior: smooth;
       }
     </style>
   </head>
   <body class="bg-gray-100 text-gray-800">
     <!-- Navbar -->
     <nav class="bg-white shadow-md">
-      <div class="container mx-auto p-4 flex justify-between items-center">
-        <h1 class="text-2xl font-bold">Rasya Falqi Gani</h1>
-        <ul class="flex space-x-6">
+      <div
+        class="container mx-auto p-4 flex flex-col md:flex-row justify-between items-center"
+      >
+        <h1 class="text-2xl font-bold mb-4 md:mb-0">Rasya Falqi Gani</h1>
+        <ul
+          class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6"
+        >
           <li><a href="#profile" class="hover:text-blue-600">Profile</a></li>
           <li><a href="#skills" class="hover:text-blue-600">Skills</a></li>
           <li>
@@ -44,8 +47,8 @@
     </nav>
 
     <!-- Hero Section -->
-    <section class="bg-blue-600 text-white py-20">
-      <div class="container mx-auto text-center">
+    <section class="bg-blue-600 text-white py-20 text-center">
+      <div class="container mx-auto">
         <h2 class="text-4xl font-bold mb-4">Hello, I'm Rasya Falqi Gani</h2>
         <p class="text-xl mb-6">
           A Full Stack Developer from Kranji, Bekasi Barat
@@ -75,7 +78,7 @@
     <section id="skills" class="py-16 bg-gray-100">
       <div class="container mx-auto px-6">
         <h2 class="text-3xl font-bold mb-6">Skills</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <div
             class="bg-white p-6 rounded-lg shadow-md transform transition duration-300 hover:scale-105 hover:shadow-xl"
           >
@@ -214,6 +217,7 @@
         </ul>
       </div>
     </section>
+
     <!-- Contact Section -->
     <section id="contact" class="py-16 bg-gray-100">
       <div class="container mx-auto px-6">
@@ -221,7 +225,7 @@
         <p>Email: rasya.gani@smkn1kotabekasi.sch.id</p>
         <p>Telepon: +62 851 7117 3121</p>
         <!-- Contact Form -->
-        <form class="mt-8 space-y-4 max-w-md">
+        <form class="mt-8 space-y-4 max-w-md mx-auto">
           <input
             type="text"
             class="block w-full border border-gray-300 rounded px-4 py-2"
