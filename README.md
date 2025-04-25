@@ -17,5 +17,8 @@
             <li><span class="emoji">⚡</span> Fun fact: <strong>Eat vegetables</strong></li>
         </ul>
     </div>
+    
+## Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasya.falqi/)
 </body>
 </html>
