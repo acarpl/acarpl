@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc;">@acarpl</span></h1>
 
-<p align="center">
+<p align="center" style="border-radius: 100%;">
   <img src="https://instagram.fcgk49-1.fna.fbcdn.net/v/t51.2885-19/449690816_7657761427668000_3248464435656178427_n.jpg?_nc_ht=instagram.fcgk49-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEfLFb6myHnK2j8xAws89KlTgGAdQz7_tPEhmgGr5aQvq0VVUlSnwJS_CLadBeYvWo&_nc_ohc=Y_vBEpVof9gQ7kNvwH1OiWn&_nc_gid=0zOXL1DSghQ1DxEwrNps1A&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfGp3mFxkVE84Ahp1otS7GQmPVvTttYLYYQLExeUPKI9ow&oe=681615D4&_nc_sid=7a9f4b" 
        alt="Profile Picture" 
-       width="100" 
-       style="border-radius: 100%;" />
+       width="100" />
 </p>
 
 ---
