@@ -1,4 +1,4 @@
-
+<center>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasya.falqi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/acatjoaon) [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31uldmgevssf55kclxcpou7x2wea)
 
@@ -22,3 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=acarpl&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</center>
