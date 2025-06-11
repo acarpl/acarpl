@@ -31,7 +31,7 @@
   <hr style="width: 60%; border: 1px solid #fff; margin: 30px 0;">
 
   <h3>🎧 Recently Playing on Spotify</h3>
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uldmgevssf55kclxcpou7x2wea&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uldmgevssf55kclxcpou7x2wea&redirect=true)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uldmgevssf55kclxcpou7x2wea&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uldmgevssf55kclxcpou7x2wea&redirect=true" />
   <hr style="width: 60%; border: 1px solid #fff; margin: 30px 0;">
 
   <h3>Di Luar Kode... 🎧🎨</h3>
