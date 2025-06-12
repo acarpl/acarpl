@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Rasya! 👋</h1>
-<h3 align="center">Just a guy coding, loving music, and living the Vindes Life 🚲🎸</h3>
+<h3 align="center">Just a guy coding, loving music, and living Life 🚲🎸</h3>
 
 ###
 
