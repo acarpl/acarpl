@@ -37,7 +37,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=acarpl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=acarpl&theme=dracula&no-frame=true&margin-w=10&margin-h=10" height="150" alt="GitHub Trophy" />
 </div>
 
 ###
