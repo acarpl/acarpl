@@ -63,3 +63,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acarpl/acarpl/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/acarpl/acarpl/output/pacman-contribution-graph.svg">
 </picture>
+
+###
