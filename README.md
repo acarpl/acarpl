@@ -4,7 +4,7 @@
 ###
 
 <p align="center">
-  <em>"Ngebut boleh, asal jangan lupa berhenti bentar buat dengerin The Beatles." – acarpl</em>
+  <em>"Ngebut boleh, asal jangan lupa berhenti bentar buat dengerin Sore." – acarpl</em>
 </p>
 
 ###
