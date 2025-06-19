@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rasya! 👋</h1>
+<h1 align="center">Hey, I'm acadiks! 👋</h1>
 <h3 align="center">Just a guy coding, loving music, and living Life 🚲🎸</h3>
 
 ###
@@ -52,7 +52,7 @@
 <p align="center">🎶 Currently vibing to Hindia, Ardhito Pramono, Slank, The Beatles, Perunggu, and everything rock 'n roll.</p>
 
 <p align="center">
-  <em>"Karena hidup nggak cuma tentang ngejar, tapi juga tentang menikmati lagu yang lagi diputar." – acarpl</em>
+  <em>"Karena hidup nggak cuma tentang ngejar, tapi juga tentang menikmati apa yang kita miliki." – acarpl</em>
 </p>
 
 ###
