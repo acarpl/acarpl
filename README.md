@@ -4,7 +4,7 @@
 ###
 
 <p align="center">
-  <em>"Ngebut boleh, asal jangan lupa berhenti bentar buat dengerin Sore." – acarpl</em>
+  <em>"do what you want to do!" – acarpl</em>
 </p>
 
 ###
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">🎶 Currently vibing to Hindia, Ardhito Pramono, Slank, The Beatles, Perunggu, and everything rock 'n roll.</p>
+<p align="center">🎶 Currently vibing to Ardhito Pramono, Club 80's, Goodnight Electric, Slank, The Beatles, Perunggu, and everything rock 'n roll.</p>
 
 <p align="center">
   <em>"Karena hidup nggak cuma tentang ngejar, tapi juga tentang menikmati apa yang kita miliki." – acarpl</em>
