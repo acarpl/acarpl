@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm acadiks! 👋</h1>
-<h3 align="center">Just a guy coding, loving music, and living Life 🚲🎸</h3>
+<h3 align="center">Design, Coding, Music, Merunggu</h3>
 
 ###
 
 <p align="center">
-  <em>"do what you want to do!" – acarpl</em>
+  <em>She got a ticket to ride</em>
 </p>
 
 ###
@@ -52,7 +52,7 @@
 <p align="center">🎶 Currently vibing to Ardhito Pramono, Club 80's, Goodnight Electric, Slank, The Beatles, Perunggu, and everything rock 'n roll.</p>
 
 <p align="center">
-  <em>"Karena hidup nggak cuma tentang ngejar, tapi juga tentang menikmati apa yang kita miliki." – acarpl</em>
+  <em>"Kebanyakan yang dikejar, yang ada engga dinikmatin." – acarpl</em>
 </p>
 
 ###
