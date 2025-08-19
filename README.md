@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,laravel,dart,flutter,ts,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,php,laravel,dart,flutter,ts,tailwind,figma,photoshop" alt="Tech Stack" />
 </div>
 
 ###
