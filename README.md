@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm acadiks! 👋</h1>
-<h3 align="center">Design, Coding, Music, Merunggu</h3>
+<h3 align="center">Design, Coding, Music, Merunggu dan Melantur</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">🎶 Currently vibing to Ardhito Pramono, Club 80's, Goodnight Electric, Slank, The Beatles, Perunggu, and everything rock 'n roll.</p>
+<p align="center">🎶 Currently vibing to Adams, Ardhito Pramono, Club 80's, Goodnight Electric, Slank, The Beatles, Perunggu, and everything rock 'n roll.</p>
 
 <p align="center">
   <em>"Kebanyakan yang dikejar, yang ada engga dinikmatin." – acarpl</em>
